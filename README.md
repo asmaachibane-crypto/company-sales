@@ -1,8 +1,9 @@
-1-How much revenue do we make per month?
-2-Which products sell the most?
-3-Which regions generate the most revenue?
-4-Which employees perform best?
+1-How much revenue does the company make per month?
+2-What are the best-selling products?
+3-Which city generate the most revenue?
+4-Which employees generate the most revenue?
 5-What is the average order value?
-6-What is the budget allocated per department?
-7-How many tasks were completed this week?
-8-Which department receives the most complaints?
+6-How many orders does each employee handle?
+7-How many orders has the company processed in January?
+8-Which product categories generate the most revenue?
+9-Which department performs best in sales?
